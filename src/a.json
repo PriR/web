@@ -1,0 +1,23 @@
+{
+    "inventorySid":"1981d556-8781-3a02-93a1-d330550cc93d",
+    "qc": [
+        {
+        "sid": "123123d21323-8781-3a02-93a1-asdsdad",
+        "updatedBy": "Usuario 1",
+        "updatedAt": "2020-01-16 10:40:54.963000",
+        "qcPhotos":[
+            "https://jumia-services-hmt-dev.s3.eu-west-1.amazonaws.com/content/1981d556-8781-3a02-93a1-d330550cc93d/9932408b-c123-4b93-b89e-2152e4b0c901",
+            "https://jumia-services-hmt-dev.s3.eu-west-1.amazonaws.com/content/1981d556-8781-3a02-93a1-d330550cc93d/dfe22abe-c445-447a-8d01-9ba732cdbaa2"
+            ]
+        },
+        {
+        "sid": "123123d21323-8781-3a02-93a1-ghghghhg",
+        "updatedBy": "Usuario 2",
+        "updatedAt": "2020-01-16 09:40:54.963000",
+        "qcPhotos":[
+            "https://jumia-services-hmt-dev.s3.eu-west-1.amazonaws.com/content/1981d556-8781-3a02-93a1-d330550cc93d/9932408b-c123-4b93-b89e-2152e4b0c901",
+            "https://jumia-services-hmt-dev.s3.eu-west-1.amazonaws.com/content/1981d556-8781-3a02-93a1-d330550cc93d/dfe22abe-c445-447a-8d01-9ba732cdbaa2"
+            ]
+        }
+    ]   
+}
